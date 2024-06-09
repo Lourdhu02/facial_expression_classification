@@ -72,16 +72,6 @@ A pre-trained model is included for inference.
 
 ### Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! 
 
-### License
 
-This project is licensed under the MIT License.
-```
-
-### Notes:
-- Replace `'class1', 'class2', 'class3'` in the live detection script with your actual class names.
-- Make sure the paths in the setup and usage sections match your directory structure.
-- If you have a `requirements.txt` file, include it in your repository to help users install the dependencies easily.
-
-Feel free to customize this README as needed for your specific project. Let me know if you need any more information or assistance!
